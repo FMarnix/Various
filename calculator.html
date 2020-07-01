@@ -1,0 +1,57 @@
+<html>
+<head>
+  <script type="text /javascript">
+    <!-- início
+    function a_mais_b(a,b) {
+    x=eval (a);
+    y=eval(b);
+    resultado=x+y;
+    document.forms[0].elements[7].value = resultado;
+  }
+  function a_menos_b(a,b) {
+    x=eval(a);
+    y=eval(b);
+    resultado=x-y;
+    document.forms[0].elements[7].value = resultado;
+  }
+  function a_vezes_b(a,b) {
+    x=eval(a);
+    y=eval(b);
+    resultado=x*b;
+    document.forms[0].elements[7].value = resultado;
+  }
+  function a_dividir_b(a,b) {
+    x=eval(a);
+    y=eval(b);
+    resultado=x/y;
+    document.forms[0].elements[7].value = resultado;
+  }
+  function a_potencia_b(a,b) {
+    x=parseInt(a);
+    y=parseInt(b);
+    resultado=Math.pow(x,y);
+    document.forms[0].elements[7].value = resultado;
+  }
+  // fim -->
+  </script>
+  <title>Calculadora</title>
+</head>
+<body>
+  <form>
+    <input type="text" size="4" name="a">
+    <input type="button" value=" + "
+    onclick="a_mais_b(document.forms[0].elements[0].value,document.forms[0].elements[6].value);">
+    <input type="button" value=" - "
+    onclick="a_menos_b(document.forms[0].elements[0].value,document.forms[0].elements[6].value);">
+    <input type="button"value=" * "
+    onclick="a_vezes_b(document.forms[0].elements[0].value,document.forms[0].elements[6].value);">
+    <input type="button" value=" / "
+    onclick="a_dividir_b(document.forms[0].elements[0].value,document.forms[0].elements[6].value);">
+    <input type="button" value=" pot "
+    onclick="a_potencia_b(document.forms[0].elements[0].value,document.forms[0].elements[6].value);">
+
+    <input type="text" size="4" name="b"> =
+    <input type="text" size="4" name="resultado">
+  </form>
+</body>
+</html>
