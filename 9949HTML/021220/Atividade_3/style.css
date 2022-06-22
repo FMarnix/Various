@@ -1,0 +1,114 @@
+h1 {
+    font-size: 30pt;
+    color: darkolivegreen;
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+}
+
+#xutos {
+    color: darkred;
+}
+
+#gnr {
+    color:green;
+}
+
+#gift {
+    color: magenta;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100%;
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#xutos a{
+    color: darkred;
+}
+
+#gnr a{
+    color:green;
+}
+
+#gift a{
+    color: magenta;
+}
+
+a:link{
+    color: red;
+    text-decoration: none;
+}
+
+a:visited {
+    color: darkblue;
+}
+
+a:hover {
+    color: darkgreen;
+    font-size: 20pt;
+}
+
+a:active {
+    color: blue;
+}
+
+#mainxutos, #maingnr, #maingift {
+    position: relative;
+}
+#mainxutos:after {
+    content : "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url(xutos.jpg); 
+    background-repeat: repeat;
+    width: 100%;
+    height: 150%;
+    opacity : 0.2;
+    z-index: -1;
+}
+
+#maingnr:after {
+    content : "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url(gnr.jpg); 
+    background-repeat: repeat;
+    width: 100%;
+    height: 150%;
+    opacity : 0.2;
+    z-index: -1;
+}
+
+#maingift:after {
+    content : "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url(gift.jpg); 
+    background-repeat: repeat;
+    width: 100%;
+    height: 150%;
+    opacity : 0.2;
+    z-index: -1;
+}

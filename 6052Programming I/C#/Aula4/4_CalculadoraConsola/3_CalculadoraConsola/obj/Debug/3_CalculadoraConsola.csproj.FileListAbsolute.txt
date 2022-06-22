@@ -1,0 +1,14 @@
+\\130-formador\Trabalhos\6052_M\Aula3\3_CalculadoraConsola\3_CalculadoraConsola\bin\Debug\3_CalculadoraConsola.exe.config
+\\130-formador\Trabalhos\6052_M\Aula3\3_CalculadoraConsola\3_CalculadoraConsola\bin\Debug\3_CalculadoraConsola.exe
+\\130-formador\Trabalhos\6052_M\Aula3\3_CalculadoraConsola\3_CalculadoraConsola\bin\Debug\3_CalculadoraConsola.pdb
+\\130-formador\Trabalhos\6052_M\Aula3\3_CalculadoraConsola\3_CalculadoraConsola\obj\Debug\3_CalculadoraConsola.csprojAssemblyReference.cache
+\\130-formador\Trabalhos\6052_M\Aula3\3_CalculadoraConsola\3_CalculadoraConsola\obj\Debug\3_CalculadoraConsola.csproj.CoreCompileInputs.cache
+\\130-formador\Trabalhos\6052_M\Aula3\3_CalculadoraConsola\3_CalculadoraConsola\obj\Debug\3_CalculadoraConsola.exe
+\\130-formador\Trabalhos\6052_M\Aula3\3_CalculadoraConsola\3_CalculadoraConsola\obj\Debug\3_CalculadoraConsola.pdb
+\\130-formador\Trabalhos\6052_M\Aula4\4_CalculadoraConsola\3_CalculadoraConsola\bin\Debug\3_CalculadoraConsola.exe.config
+\\130-formador\Trabalhos\6052_M\Aula4\4_CalculadoraConsola\3_CalculadoraConsola\bin\Debug\3_CalculadoraConsola.exe
+\\130-formador\Trabalhos\6052_M\Aula4\4_CalculadoraConsola\3_CalculadoraConsola\bin\Debug\3_CalculadoraConsola.pdb
+\\130-formador\Trabalhos\6052_M\Aula4\4_CalculadoraConsola\3_CalculadoraConsola\obj\Debug\3_CalculadoraConsola.csprojAssemblyReference.cache
+\\130-formador\Trabalhos\6052_M\Aula4\4_CalculadoraConsola\3_CalculadoraConsola\obj\Debug\3_CalculadoraConsola.csproj.CoreCompileInputs.cache
+\\130-formador\Trabalhos\6052_M\Aula4\4_CalculadoraConsola\3_CalculadoraConsola\obj\Debug\3_CalculadoraConsola.exe
+\\130-formador\Trabalhos\6052_M\Aula4\4_CalculadoraConsola\3_CalculadoraConsola\obj\Debug\3_CalculadoraConsola.pdb

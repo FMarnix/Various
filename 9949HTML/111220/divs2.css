@@ -1,0 +1,32 @@
+#container {
+    display: flex;
+}
+
+.cxBonita {
+    background-color: tomato;
+    border: solid maroon 5px;
+    padding: 20px;
+}
+
+.txtBonito {
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14pt;
+    color: white;
+}
+
+#primeira {
+    background-color: orange;
+}
+
+#segunda {
+    background-color:green;
+}
+#terceira {
+    background-color: teal;
+}
+
+div h2 {
+    color: darkred;
+    text-shadow: 1px 1px 2px black;
+}

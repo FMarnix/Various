@@ -1,0 +1,13 @@
+//130-formador/Trabalhos/6052_M/Aula4/4_CalculadoraConsola/3_CalculadoraConsola/bin/Debug/3_CalculadoraConsola.exe.config
+//130-formador/Trabalhos/6052_M/Aula4/4_CalculadoraConsola/3_CalculadoraConsola/bin/Debug/3_CalculadoraConsola.exe
+//130-formador/Trabalhos/6052_M/Aula4/4_CalculadoraConsola/3_CalculadoraConsola/bin/Debug/3_CalculadoraConsola.pdb
+//130-formador/Trabalhos/6052_M/Aula4/4_CalculadoraConsola/3_CalculadoraConsola/obj/Debug/4_CalculadoraConsola.csproj.CoreCompileInputs.cache
+//130-formador/Trabalhos/6052_M/Aula4/4_CalculadoraConsola/3_CalculadoraConsola/obj/Debug/3_CalculadoraConsola.exe
+//130-formador/Trabalhos/6052_M/Aula4/4_CalculadoraConsola/3_CalculadoraConsola/obj/Debug/3_CalculadoraConsola.pdb
+/media/filipeneto/FILIPE II/Programador informatica IEFP/FilipeNeto/6052Programming/C#/Aula4/4_CalculadoraConsola/3_CalculadoraConsola/bin/Debug/3_CalculadoraConsola.exe.config
+/media/filipeneto/FILIPE II/Programador informatica IEFP/FilipeNeto/6052Programming/C#/Aula4/4_CalculadoraConsola/3_CalculadoraConsola/bin/Debug/3_CalculadoraConsola.exe
+/media/filipeneto/FILIPE II/Programador informatica IEFP/FilipeNeto/6052Programming/C#/Aula4/4_CalculadoraConsola/3_CalculadoraConsola/bin/Debug/3_CalculadoraConsola.pdb
+/media/filipeneto/FILIPE II/Programador informatica IEFP/FilipeNeto/6052Programming/C#/Aula4/4_CalculadoraConsola/3_CalculadoraConsola/obj/Debug/4_CalculadoraConsola.csprojAssemblyReference.cache
+/media/filipeneto/FILIPE II/Programador informatica IEFP/FilipeNeto/6052Programming/C#/Aula4/4_CalculadoraConsola/3_CalculadoraConsola/obj/Debug/4_CalculadoraConsola.csproj.CoreCompileInputs.cache
+/media/filipeneto/FILIPE II/Programador informatica IEFP/FilipeNeto/6052Programming/C#/Aula4/4_CalculadoraConsola/3_CalculadoraConsola/obj/Debug/3_CalculadoraConsola.exe
+/media/filipeneto/FILIPE II/Programador informatica IEFP/FilipeNeto/6052Programming/C#/Aula4/4_CalculadoraConsola/3_CalculadoraConsola/obj/Debug/3_CalculadoraConsola.pdb

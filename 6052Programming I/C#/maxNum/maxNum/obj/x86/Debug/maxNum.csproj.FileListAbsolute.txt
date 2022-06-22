@@ -1,0 +1,6 @@
+/media/filipeneto/FILIPE II/Programador informatica IEFP/FilipeNeto/6052Programming/C#/maxNum/maxNum/bin/Debug/maxNum.exe
+/media/filipeneto/FILIPE II/Programador informatica IEFP/FilipeNeto/6052Programming/C#/maxNum/maxNum/bin/Debug/maxNum.pdb
+/media/filipeneto/FILIPE II/Programador informatica IEFP/FilipeNeto/6052Programming/C#/maxNum/maxNum/obj/x86/Debug/maxNum.csprojAssemblyReference.cache
+/media/filipeneto/FILIPE II/Programador informatica IEFP/FilipeNeto/6052Programming/C#/maxNum/maxNum/obj/x86/Debug/maxNum.csproj.CoreCompileInputs.cache
+/media/filipeneto/FILIPE II/Programador informatica IEFP/FilipeNeto/6052Programming/C#/maxNum/maxNum/obj/x86/Debug/maxNum.exe
+/media/filipeneto/FILIPE II/Programador informatica IEFP/FilipeNeto/6052Programming/C#/maxNum/maxNum/obj/x86/Debug/maxNum.pdb

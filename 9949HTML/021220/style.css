@@ -1,0 +1,41 @@
+/*
+a:link  - link normal, nao visitado
+a:visited - link visitado
+a:hover - quando passamos o rato por sobre
+a:active - no momento em que clicamos no link
+*/
+
+a:link{
+    color: red;
+    text-decoration: none;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: pink;
+    font-size: 20pt;
+}
+
+a:active {
+    color: blue;
+}
+
+img {
+    width: 500px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: teal;
+    border-radius: 25px;
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30pt;
+    color: darkblue;
+    text-shadow: 3px 3px 5px grey;
+ }

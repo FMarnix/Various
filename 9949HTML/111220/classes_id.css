@@ -1,0 +1,22 @@
+.texto{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkblue;
+}
+
+.fundo{
+    background-color: pink;
+}
+
+.caixa{
+    border: 2px solid;
+    background-color: #ddd;
+    padding: 10px;
+}
+
+#cxClasses {
+    color: tomato;
+}
+
+#cxIds {
+    color: teal;
+}

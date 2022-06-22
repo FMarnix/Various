@@ -1,0 +1,12 @@
+div {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border: solid black;
+    float: left;
+}
+
+#direita {
+    background-color: yellow;
+    float: right;
+}

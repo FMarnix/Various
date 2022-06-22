@@ -1,0 +1,7 @@
+D:\FilipeNeto\6052Programming\C#\1_OlaMundo\1_OlaMundo\bin\Debug\1_OlaMundo.exe.config
+D:\FilipeNeto\6052Programming\C#\1_OlaMundo\1_OlaMundo\bin\Debug\1_OlaMundo.exe
+D:\FilipeNeto\6052Programming\C#\1_OlaMundo\1_OlaMundo\bin\Debug\1_OlaMundo.pdb
+D:\FilipeNeto\6052Programming\C#\1_OlaMundo\1_OlaMundo\obj\Debug\1_OlaMundo.csprojAssemblyReference.cache
+D:\FilipeNeto\6052Programming\C#\1_OlaMundo\1_OlaMundo\obj\Debug\1_OlaMundo.csproj.CoreCompileInputs.cache
+D:\FilipeNeto\6052Programming\C#\1_OlaMundo\1_OlaMundo\obj\Debug\1_OlaMundo.exe
+D:\FilipeNeto\6052Programming\C#\1_OlaMundo\1_OlaMundo\obj\Debug\1_OlaMundo.pdb

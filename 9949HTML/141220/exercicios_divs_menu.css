@@ -1,0 +1,31 @@
+#menu{
+    height: 40px;
+    background-color: #d19c1d;
+    
+}
+
+#menu ul{
+    margin: 0;
+    padding: 0;
+}
+
+#menu li{
+    list-style-type: none;
+    display: block;
+    float: left;
+    width: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16pt;
+    text-align: center;
+    line-height: 40px;  
+}
+
+#menu a{
+    text-decoration: none;
+    color: white;
+}
+
+#menu li:hover{
+    font-size: 20ptd;
+    background-color: #ff8000;
+}
